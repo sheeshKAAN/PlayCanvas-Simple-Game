@@ -8,14 +8,14 @@ _Rename_
 4 Sounds
 ```
 # Progress
-- [0:21](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Editor
-- [3:07](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Import Physics Engine
-- [5:57](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Rigidbody
-- [8:11](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Movement Script
-- [14:38](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Change the Speed Variable Dynamically
-- [18:08](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Item Collecting
-- [18:35](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Set Materials to the Objects
-- [22:50](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Coin Manager
+- [0:21](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Editor ✅
+- [3:07](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Import Physics Engine ✅
+- [5:57](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Rigidbody ✅
+- [8:11](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Movement Script ✅ 
+- [14:38](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Change the Speed Variable Dynamically ✅
+- [18:08](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Item Collecting ✅ 
+- [18:35](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Set Materials to the Objects ✅
+- [22:50](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Coin Manager 
 - [23:20](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Coin Manager Script
 - [25:13](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Foor Lop
 - [26:22](https://www.youtube.com/watch?v=i-cvfEW4Fq8) Setposition
