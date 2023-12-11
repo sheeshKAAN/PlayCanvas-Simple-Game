@@ -15,8 +15,8 @@ _Rename_
 - [14:38](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Change the Speed Variable Dynamically** ✅
 - [18:08](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Item Collecting** ✅ 
 - [18:35](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Set Materials to the Objects** ✅
-- [22:50](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Coin Manager** _(I think there is a problem)_
-- [23:20](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Coin Manager Script** _(I think there is a problem)_
+- [22:50](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Coin Manager** _(I think there is a problem)_ ❔
+- [23:20](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Coin Manager Script** _(I think there is a problem)_ ❔
 - [25:13](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Foor Lop**
 - [26:22](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Setposition**
 - [33:30](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Import Font**
