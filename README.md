@@ -29,6 +29,6 @@ _Rename_
 # Projects
 **Play Canvas Project:** https://playcanvas.com/project/1125831/overview/simple-game **-** **[@sheeshKAAN](https://github.com/sheeshKAAN)**
 
-**Original Project:** https://www.youtube.com/watch?v=i-cvfEW4Fq8&ab_channel=CemDemir **-** **@devcem](https://github.com/devcem)**
+**Original Project:** https://www.youtube.com/watch?v=i-cvfEW4Fq8&ab_channel=CemDemir **-** **[@devcem](https://github.com/devcem)**
 
 https://playcanvas.com/project/844075/overview/simple-game **-** **[@devcem](https://github.com/devcem)**
