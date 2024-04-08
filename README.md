@@ -9,22 +9,42 @@ _in this project:_
 4 Sounds
 ```
 # Progress
-- [0:21](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Editor** ✅
-- [3:07](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Import Physics Engine** ✅
-- [5:57](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Rigidbody** ✅
-- [8:11](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Movement Script** ✅ 
-- [14:38](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Change the Speed Variable Dynamically** ✅
-- [18:08](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Item Collecting** ✅ 
-- [18:35](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Set Materials to the Objects** ✅
-- [22:50](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Coin Manager** _(I think there is a problem)_ ❔
-- [23:20](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Coin Manager Script** _(I think there is a problem)_ ❔
-- [25:13](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Foor Lop**
-- [26:22](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Setposition**
-- [33:30](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Import Font**
-- [33:43](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Free Font**
-- [35:52](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Overlay Script**
-- [41:48](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Tigger Sounds**
-- [43:37](https://www.youtube.com/watch?v=i-cvfEW4Fq8) **Sounds**
+<table border="0" width="100%">
+    <thead>
+        <tr>
+            <th>Section</th>
+            <th>Area</th>
+            <th>Completion Status</th>
+            <th>Problems</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">0:21</a> </b> </td>
+            <td> Editor </td>
+            <td> ½100 </td>
+            <td> - </td>
+        </tr>
+        <tr>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">3:07</a> </b> </td>
+            <td> Import Physics Engine </td>
+            <td> %100 </td>
+            <td> - </td>
+</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td> <b> <a href="https://github.com/jishal919">Terminal</a> </b> </td>
+            <td> Developer </td>
+            <td>
+⁃ Venge Lab Discord bot manager                                                                                                                
+                                                                    
+⁃ Web Developer 
+</td>
+        </tr>
+    </tfoot>
+</table>
 
 # Projects
 **Play Canvas Project:** https://playcanvas.com/project/1125831/overview/simple-game **-** _**[@sheeshKAAN](https://github.com/sheeshKAAN)**_
