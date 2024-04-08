@@ -41,10 +41,10 @@ _in this project:_
             <td> - </td>
         </tr>
 </td>
-            <th>Section</th>
-            <th>Area</th>
-            <th>Completion Status</th>
-            <th>Problems</th>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">8:11</a> </b> </td>
+            <td> Movement Script </td>
+            <td> %100 </td>
+            <td> - </td>
         </tr>
     </thead>
     <tbody>
