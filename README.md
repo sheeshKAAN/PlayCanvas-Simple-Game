@@ -40,6 +40,15 @@ _in this project:_
             <td> %100 </td>
             <td> - </td>
         </tr>
+</td>
+            <th>Section</th>
+            <th>Area</th>
+            <th>Completion Status</th>
+            <th>Problems</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
     </tfoot>
 </table>
 
