@@ -22,7 +22,7 @@ _in this project:_
        <tr>
             <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">0:21</a> </b> </td>
             <td> Editor </td>
-            <td> ½100 </td>
+            <td> %100 </td>
             <td> - </td>
         </tr>
         <tr>
@@ -35,13 +35,10 @@ _in this project:_
     </tbody>
     <tfoot>
         <tr>
-            <td> <b> <a href="https://github.com/jishal919">Terminal</a> </b> </td>
-            <td> Developer </td>
-            <td>
-⁃ Venge Lab Discord bot manager                                                                                                                
-                                                                    
-⁃ Web Developer 
-</td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">5:57</a> </b> </td>
+            <td> Rigidbody </td>
+            <td> %100 </td>
+            <td> - </td>
         </tr>
     </tfoot>
 </table>
