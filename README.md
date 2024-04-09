@@ -48,9 +48,8 @@ _in this project:_
         </tr>
     </thead>
     <tbody>
-       <tr>
+      </td>
     </tfoot>
-        </tr>
     </tbody>
     <tfoot>
         <tr>
@@ -59,6 +58,7 @@ _in this project:_
             <td> %100 </td>
             <td> - </td>
         </tr>
+</td>
 </table>
 
 # Project Details
