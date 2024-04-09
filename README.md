@@ -81,7 +81,7 @@ _in this project:_
             <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">23:20</a> </b> </td>
             <td>Coin Manager Script</td>
             <td>%90</td>
-            <td>-I think there is a bug in the code that I can't see.
+            <td>-I think there is a bug in the code that I can't see or something is missing.
 
 -https://iili.io/JkvsdVj.png </td>
         </tr>
