@@ -19,7 +19,7 @@ _in this project:_
             <th>Problems</th>
         </tr>
     </thead>
-    <tbody>
+            <tbody>
        <tr>
             <td>1</td>
             <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">0:21</a> </b> </td>
@@ -27,30 +27,8 @@ _in this project:_
             <td>%100</td>
             <td>-</td>
         </tr>
-        <tr>
-            <td>February</td>
-            <td>200$</td>
-        </tr>
-    </tbody>
-    <tfoot>
-        <tr>
-            <td>Total</td>
-            <td>300$</td>
-        </tr>
-    </tfoot>
- <tbody>
-       <tr>
-            <td>1</td>
-            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">0:21</a> </b> </td>
-            <td>Editor</td>
-            <td>%100</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>February</td>
-            <td>200$</td>
-        </tr>
-    </tbody>
+    
+        </tbody>
 </table>
 
 # Project Details
