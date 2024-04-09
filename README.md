@@ -55,8 +55,8 @@ _in this project:_
     </tbody>
     <tfoot>
         <tr>
-            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">5:57</a> </b> </td>
-            <td> Rigidbody </td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">14:38</a> </b> </td>
+            <td> Change the Speed Variable Dynamically </td>
             <td> %100 </td>
             <td> - </td>
         </tr>
