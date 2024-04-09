@@ -12,7 +12,7 @@ _in this project:_
 <table border="0" width="100%">
     <thead>
         <tr>
-            <th>Issue</th>
+            <th>Numerary</th>
             <th>Section</th>
             <th>Area</th>
             <th>Completion Status</th>
@@ -38,6 +38,19 @@ _in this project:_
             <td>300$</td>
         </tr>
     </tfoot>
+ <tbody>
+       <tr>
+            <td>1</td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">0:21</a> </b> </td>
+            <td>Editor</td>
+            <td>%100</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>February</td>
+            <td>200$</td>
+        </tr>
+    </tbody>
 </table>
 
 # Project Details
