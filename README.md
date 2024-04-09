@@ -12,6 +12,7 @@ _in this project:_
 <table border="0" width="100%">
     <thead>
         <tr>
+            <th>Issue</th>
             <th>Section</th>
             <th>Area</th>
             <th>Completion Status</th>
@@ -20,39 +21,20 @@ _in this project:_
     </thead>
     <tbody>
        <tr>
-            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">0:21</a> </b> </td>
-            <td> Editor </td>
-            <td> %100 </td>
-            <td> - </td>
+            <td>January</td>
+            <td>100$</td>
         </tr>
         <tr>
-            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">3:07</a> </b> </td>
-            <td> Import Physics Engine </td>
-            <td> %100 </td>
-            <td> - </td>
-</td>
+            <td>February</td>
+            <td>200$</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">5:57</a> </b> </td>
-            <td> Rigidbody </td>
-            <td> %100 </td>
-            <td> - </td>
+            <td>Total</td>
+            <td>300$</td>
         </tr>
-</td>
-            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">8:11</a> </b> </td>
-            <td> Movement Script </td>
-            <td> %100 </td>
-            <td> - </td>
-        </tr>
-    </thead>
-    <tbody>
-            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">14:38</a> </b> </td>
-            <td> Change the Speed Variable Dynamically </td>
-            <td> %100 </td>
-            <td> - </td>
-        </tr>
+    </tfoot>
 </table>
 
 # Project Details
