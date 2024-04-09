@@ -52,7 +52,7 @@ _in this project:_
     </tfoot>
 </table>
 
-# Projects
+# Project Details
 **Play Canvas Project:** https://playcanvas.com/project/1125831/overview/simple-game **-** _**[@sheeshKAAN](https://github.com/sheeshKAAN)**_
 
 **Original Project:** https://www.youtube.com/watch?v=i-cvfEW4Fq8&ab_channel=CemDemir **-** _**[@devcem](https://github.com/devcem)**_
