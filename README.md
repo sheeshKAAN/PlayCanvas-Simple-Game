@@ -73,7 +73,7 @@ _in this project:_
             <td>8</td>
             <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">22:50</a> </b> </td>
             <td>Coin Manager</td>
-            <td>%50</td>
+            <td>%20</td>
             <td>- The Coins are still nestled together(10), I can't spread them around.</td>
         </tr>
 <tbody>
