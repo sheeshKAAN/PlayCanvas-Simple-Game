@@ -50,6 +50,17 @@ _in this project:_
     <tbody>
        <tr>
     </tfoot>
+</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">5:57</a> </b> </td>
+            <td> Rigidbody </td>
+            <td> %100 </td>
+            <td> - </td>
+        </tr>
+</td>
 </table>
 
 # Project Details
