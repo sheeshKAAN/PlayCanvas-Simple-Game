@@ -50,7 +50,6 @@ _in this project:_
     <tbody>
        <tr>
     </tfoot>
-</td>
         </tr>
     </tbody>
     <tfoot>
@@ -60,7 +59,6 @@ _in this project:_
             <td> %100 </td>
             <td> - </td>
         </tr>
-</td>
 </table>
 
 # Project Details
