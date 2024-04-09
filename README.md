@@ -83,7 +83,7 @@ _in this project:_
             <td>%90</td>
             <td>- I think there is a bug in the code that I can't see.
 
-- https://iili.io/JkvsdVj.png </td>
+ - https://iili.io/JkvsdVj.png </td>
         </tr>
 <tbody>
 </table>
