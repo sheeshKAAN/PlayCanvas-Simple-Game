@@ -85,6 +85,27 @@ _in this project:_
 
 -https://iili.io/JkvsdVj.png </td>
         </tr>
+       <tr>
+            <td>10</td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">25:13</a> </b> </td>
+            <td>Foor Lop</td>
+            <td>%0</td>
+            <td>-</td>
+        </tr>
+       <tr>
+            <td>12</td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">26:22</a> </b> </td>
+            <td>Setposition</td>
+            <td>%0</td>
+            <td>-</td>
+        </tr>
+       <tr>
+            <td>13</td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">33:30</a> </b> </td>
+            <td>Import Font</td>
+            <td>%0</td>
+            <td>-</td>
+        </tr>
 <tbody>
 </table>
 
