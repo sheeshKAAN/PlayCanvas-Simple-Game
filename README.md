@@ -62,6 +62,20 @@ _in this project:_
             <td>%100</td>
             <td>-</td>
         </tr>
+       <tr>
+            <td>7</td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">18:35</a> </b> </td>
+            <td>Set Materials to the Objects</td>
+            <td>%100</td>
+            <td>-</td>
+        </tr>
+       <tr>
+            <td>8</td>
+            <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">22:50</a> </b> </td>
+            <td>Coin Manager</td>
+            <td>%90</td>
+            <td>-</td>
+        </tr>
 <tbody>
 </table>
 
