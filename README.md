@@ -54,8 +54,6 @@ _in this project:_
             <td> %100 </td>
             <td> - </td>
         </tr>
-    </thead>
-    <tbody>
 </table>
 
 # Project Details
