@@ -74,16 +74,16 @@ _in this project:_
             <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">22:50</a> </b> </td>
             <td>Coin Manager</td>
             <td>%20</td>
-            <td>- The Coins are still nestled together(10), I can't spread them around.</td>
+            <td>-The Coins are still nestled together(10), I can't spread them around.</td>
         </tr>
        <tr>
             <td>9</td>
             <td> <b> <a href="https://www.youtube.com/watch?v=i-cvfEW4Fq8">23:20</a> </b> </td>
             <td>Coin Manager Script</td>
             <td>%90</td>
-            <td>- I think there is a bug in the code that I can't see.
+            <td>-I think there is a bug in the code that I can't see.
 
- - https://iili.io/JkvsdVj.png </td>
+-https://iili.io/JkvsdVj.png </td>
         </tr>
 <tbody>
 </table>
